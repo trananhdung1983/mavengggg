@@ -1,0 +1,11 @@
+mavengggg\services\impl\UserServiceImpl.class
+mavengggg\commons\dao\GenericJpaDao.class
+mavengggg\dao\UserJpaDao.class
+mavengggg\commons\dao\GenericDao.class
+mavengggg\domain\UserEntity.class
+mavengggg\ui\utils\UIUtils.class
+mavengggg\services\UserAuthenticationProviderService.class
+mavengggg\services\UserService.class
+mavengggg\services\impl\UserAuthenticationProviderServiceImpl.class
+mavengggg\dao\UserDao.class
+mavengggg\commons\domain\BaseEntity.class
